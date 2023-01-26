@@ -1,0 +1,15 @@
+.section-register {
+    background-color:transparent;
+    border: 0.2px solid #FFF;
+    width: 50vw;
+    height: 50vh;
+    margin-top: 150px;
+}
+
+@media (max-width: 770px){
+.section-register {
+    width: 85vw;
+    height: auto;
+    margin-top: 60px;
+}
+}
